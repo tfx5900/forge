@@ -12,7 +12,7 @@ gem "sass", "~> 3.2.0"
 gem "sprockets-sass", "~> 0.3.0"
 gem "compass", "~> 0.12.2"
 gem 'rack', '~> 1.3.5'
-gem "less", "~> 2.2.2"
+gem "less"
 gem "rb-fsevent", ">= 0.9.3"
 gem "yui-compressor", "~> 0.9.6"
 
